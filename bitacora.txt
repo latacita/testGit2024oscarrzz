@@ -14,3 +14,6 @@
 18	hago merge con SegundaRama		hay conflicto, por lo que modifico el archivo para resolverlo y termino de hacer el merge
 19	vuelvo a rama master
 20	recupero cambios salvados del paso 11
+26	etiqueto el commit como "PasosExtras"
+27	vuelvo a la rama master
+28	hago cherrypick del commit "PasosExtras"
