@@ -1,8 +1,10 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Ruiz Castillo, Oscar                 %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01	clono el repositorio
+02	edito bitácora con mi nombre
