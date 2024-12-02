@@ -8,3 +8,4 @@
 ====== ============================ ================================
 01	clono el repositorio
 02	edito bitácora con mi nombre
+04	creo PrimeraRama y me muevo a ella
