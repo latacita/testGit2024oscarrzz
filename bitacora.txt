@@ -8,3 +8,9 @@
 ====== ============================ ================================
 01	clono el repositorio
 02	edito bitácora con mi nombre
+08	subo SegundaRama al rep. remoto
+09	vuelvo a la rama master
+17	vuelvo a PrimeraRama
+18	hago merge con SegundaRama		hay conflicto, por lo que modifico el archivo para resolverlo y termino de hacer el merge
+19	vuelvo a rama master
+20	recupero cambios salvados del paso 11
