@@ -1,0 +1,3 @@
+22	subo rama master al rep. remoto
+23	vuelvo a SegundaRama
+24	creo un fichero PasosExtras.txt
